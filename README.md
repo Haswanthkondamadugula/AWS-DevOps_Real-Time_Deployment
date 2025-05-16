@@ -25,22 +25,6 @@ By leveraging AWS services and modern DevOps tools, this setup ensures a seamles
 
 This project is designed to enhance agility, reduce manual interventions, and ensure reliable software delivery.  
 
----
 
-## 📖 Step-by-Step Guide  
-
-For a complete walkthrough with **detailed screenshots**, visit the blog post:  
-📌 [AWS DevOps Real-Time Deployment – Full Guide](https://blog.prodevopsguy.xyz/aws-devops-real-time-deployment-dev-pre-prod-production)  
-
----
-
-## 🛠️ Author & Credits
-
-![text](https://imgur.com/2j7GSPs.png)
-
-This project is built and maintained by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-Feel free to contribute, suggest improvements, or reach out for discussions!  
-
-📧 **Contact**: Connect via [GitHub](https://github.com/NotHarshhaa) | [Hashnode](https://blog.prodevopsguy.xyz)  
 
 🔖 **License**: MIT
